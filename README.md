@@ -6,3 +6,9 @@
 
 1. [LeetCode-0001](Problems/LeetCode-0001.md)
 
+## Python
+
+1. stack, queue
+
+
+## C
